@@ -1,0 +1,13 @@
+{
+  "total_customers": 1800,
+  "total_orders": 10592,
+  "total_revenue": 1561568.97,
+  "total_net_profit": 390459.44,
+  "overall_return_rate": 26.5,
+  "most_profitable_segment": "Loyal Buyer",
+  "least_profitable_segment": "Bracket Buyer",
+  "pct_customers_unprofitable": 17.0,
+  "scenario_b_improvement": -48888.2,
+  "scenario_c_improvement": 39915.59,
+  "highest_return_category": "Outerwear"
+}

@@ -1,0 +1,5 @@
+Segment,Customer Count,% of Customer Base,Avg Orders per Customer,Avg Revenue per Customer CAD,Avg Return Rate %,Avg Net Profit per Customer CAD,% Customers Profitable,Total Segment Revenue CAD,Total Segment Net Profit CAD
+Serial Returner,360,20.0,6.5,1043.34,36.4,136.93,70.6,375601.11,49293.42
+Occasional Returner,630,35.0,4.5,600.2,20.8,185.28,87.0,378127.78,116726.92
+Loyal Buyer,540,30.0,7.4,809.53,7.3,375.96,99.4,437145.22,203019.78
+Bracket Buyer,270,15.0,5.3,1372.94,45.0,79.33,57.4,370694.86,21419.32

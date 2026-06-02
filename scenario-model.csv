@@ -1,0 +1,4 @@
+Scenario,Description,Revenue Impact CAD,Cost Saving CAD,Net Profit CAD,vs Current,Recommended
+A — Keep free returns for everyone,No change to current policy,0,0,390459.44,0,Baseline
+B — Charge Serial Returners $12 return fee,Apply $12 return fee to any customer with return rate above 50%,-67608.2,18720,341571.24,-48888.2,Yes
+C — Offer Bracket Buyers a Fit Guarantee,Bracket Buyers get one free exchange per order instead of free returns — reduces serial ordering,29655.59,10260,430375.03,39915.59,Yes
