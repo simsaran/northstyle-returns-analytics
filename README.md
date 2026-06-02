@@ -17,7 +17,7 @@ A customer returns and profitability analytics project for a fictional Canadian 
 
 ## Live app
 
-[Launch the NorthStyle Returns Analytics Dashboard](your-streamlit-link-here)
+[Launch the NorthStyle Returns Analytics Dashboard](https://northstyle-returns-analytics-2026.streamlit.app/)
 
 ---
 
