@@ -1,5 +1,5 @@
 # The Real Cost of Free Returns
-### NorthStyle Co. — Customer Returns and Profitability Analytics
+### NorthStyle Co. Customer Returns and Profitability Analytics
 
 I ordered three sizes of the same jeans online last month. Kept one. Returned two. Free shipping both ways. The whole thing cost me nothing extra. On the way to the post office I started thinking about what that transaction actually cost the retailer. Because it definitely was not free for them.
 
